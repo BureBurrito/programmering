@@ -1,0 +1,10 @@
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\bin\Debug\Positioner.exe.config
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\bin\Debug\Positioner.exe
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\bin\Debug\Positioner.pdb
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.csprojAssemblyReference.cache
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.Form1.resources
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.Properties.Resources.resources
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.csproj.GenerateResource.cache
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.csproj.CoreCompileInputs.cache
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.exe
+C:\Users\albstu0208\source\repos\BureBurrito\Programmering2\Positioner\Positioner\obj\Debug\Positioner.pdb
